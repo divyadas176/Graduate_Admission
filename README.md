@@ -40,11 +40,11 @@ This project helps students and researchers:
 ---
 
 ### Key Findings & Insights
-- The "Primary Gatekeeper" (CGPA): Correlation analysis identifies CGPA as the most dominant predictor of admission ($R \approx 0.88$). This suggests that while test scores are important, undergraduate academic consistency is the baseline requirement for a competitive application.
-- The Research "Lift": Data reveals a distinct advantage for applicants with Research Experience. On average, students with research background show a significantly higher probability of admission (approx. 15-20% higher) than those with similar test scores but no research exposure.
-- Diminishing Returns of Test Scores: While GRE and TOEFL scores positively correlate with admission, the data shows a "clustering" effect at the higher end. This implies that once a threshold (e.g., GRE > 315) is met, qualitative factors like SOP and LOR strength become the primary differentiators.
-- Holistic Profile Impact: Qualitative metrics (SOP/LOR) show a moderate but steady positive correlation. Specifically, moving from a 3.0 to a 4.5 rating in SOP strength correlates with a measurable jump in admission probability, proving that "soft" factors can compensate for slightly lower numerical scores.
-- The "Competitive Ceiling": The distribution of the dataset shows a high concentration of applicants with CGPA > 8.0 and GRE > 310. This confirms that the graduate admission landscape is highly saturated, making unique features (like Research or high-tier University Ratings) essential for standing out.
+- CGPA has the strongest positive impact on the Chance of Admit, followed by GRE and TOEFL scores.
+- Research experience, SOP strength, and LOR also moderately improve admission chances.
+- Most applicants in the dataset have strong GRE, TOEFL, and CGPA scores, suggesting a competitive pool.
+- Adding IELTS as a derived feature provides an alternate view of English proficiency.
+- Overall, a combination of academic performance and application quality determines admission probability.
 
 ---
 
